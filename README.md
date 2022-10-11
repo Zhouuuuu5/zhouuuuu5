@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhouuuuu5
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Java and C.
+- 🌱 I’m actively seeking SDE internships/co-ops for 2023.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
