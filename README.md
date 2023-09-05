@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhouuuuu5
 - 👀 I’m interested in computer science.
-- 🌱 I’m actively seeking SDE internships/co-ops for 2023.
+- 🌱 I’m actively seeking SDE internships/co-ops for fall 2023, spring 2024 or summer 2024.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
