@@ -1,12 +1,8 @@
 # Hi 👋 My name is Zhouming 😎
 
-## Software Engineer, Attending CS Master at Northeastern University
+## Software Engineer
 
 - 👀 I’m interested in Web and Mobile App Development
-- 🔭 I’m actively seeking SDE internships/co-ops for summer 2024
-- 🌱 I’m currently learning Golang and high-concurrency distributed systems
-- 🖥️ See my portfolio at [this link](https://zuno-wu-portfolio.vercel.app/)
-- 📫 Reach me at zunowu@gmail.com
 - ⚡ Fun fact: I am a real foodie 🥞🧆🍢🍝🤗
 
 ### Skills
